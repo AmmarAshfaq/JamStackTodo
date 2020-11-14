@@ -1,0 +1,12 @@
+{
+  "name": "JamStackTodo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AmmarAshfaq/JamStackTodo.git",
+  "author": "RapidoBots <rapidobots@gmail.com>",
+  "license": "MIT",
+  "private":true,
+  "workspaces":[
+    "packages/*"
+  ]
+}
